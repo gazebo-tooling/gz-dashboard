@@ -1,3 +1,7 @@
+# Repo specific
+temp-repos/
+gz-dashboard.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
