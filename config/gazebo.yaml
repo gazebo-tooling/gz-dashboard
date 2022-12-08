@@ -1,0 +1,14 @@
+---
+distributions:
+  citadel:
+    path: /tmp/gazebo/citadel
+    url: https://raw.githubusercontent.com/gazebo-tooling/gazebodistro/master/collection-citadel.yaml
+  fortress:
+    path: /tmp/gazebo/fortress
+    url: https://raw.githubusercontent.com/gazebo-tooling/gazebodistro/master/collection-fortress.yaml
+  garden:
+    path: /tmp/gazebo/garden
+    url: https://raw.githubusercontent.com/gazebo-tooling/gazebodistro/master/collection-garden.yaml
+  harmonic:
+    path: /tmp/gazebo/harmonic
+    url: https://raw.githubusercontent.com/gazebo-tooling/gazebodistro/master/collection-harmonic.yaml
