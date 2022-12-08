@@ -1,7 +1,5 @@
 distributions:
   humble:
     url: https://raw.githubusercontent.com/ros2/ros2/humble/ros2.repos
-    path: /tmp/ros2/humble
   rolling:
     url: https://raw.githubusercontent.com/ros2/ros2/rolling/ros2.repos
-    path: /tmp/ros2/rolling
