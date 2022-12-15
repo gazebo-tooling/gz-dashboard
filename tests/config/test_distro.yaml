@@ -1,0 +1,4 @@
+---
+distributions:
+  foo:
+    url: config/collection-foo.yaml

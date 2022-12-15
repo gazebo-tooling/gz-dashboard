@@ -1,0 +1,8 @@
+---
+distributions:
+  citadel:
+    url: https://raw.githubusercontent.com/gazebo-tooling/gazebodistro/master/collection-citadel.yaml
+  fortress:
+    url: https://raw.githubusercontent.com/gazebo-tooling/gazebodistro/master/collection-fortress.yaml
+  garden:
+    url: https://raw.githubusercontent.com/gazebo-tooling/gazebodistro/master/collection-garden.yaml

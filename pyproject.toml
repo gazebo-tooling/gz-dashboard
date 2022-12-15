@@ -34,6 +34,7 @@ packages = [
 python = ">=3.7.1, <4.0"
 requests = "*"
 vcstool = "*"
+humanfriendly = "^10.0"
 
 [tool.poetry.dev-dependencies]
 autoflake = "*"
